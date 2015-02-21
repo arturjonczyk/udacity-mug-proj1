@@ -1,0 +1,58 @@
+/** GENERAL ********************************/
+body {
+	font-family: Verdana, sans-serif;
+	color: #666;
+	font-size: 12px;
+}
+
+/** HEADER ********************************/
+.header {
+	margin-bottom: 22px;
+}
+
+h1 {
+	font-size: 4em;
+	padding-top: 26px;
+}
+
+/** MAIN **********************************/
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #f07c17;
+}
+
+/************** ASIDE/Left SIDE ********/
+.main-image {
+	margin-bottom: 30px;
+}
+
+.main-image img{
+	margin-top: 20px;
+}
+
+.main-features {
+	border: 1px solid #ccc;
+	box-sizing: content-box;
+	height: 224px;
+}
+
+.main-features h2,
+.main-features ul {
+	margin: 30px 0 0 30px;
+}
+
+.main-features li {
+	font-size: 1.3em;
+	line-height: 32px;
+}
+
+/*************** ARTICLE/RIGHT SIDE ********/
+.main-article h2 {
+	margin-bottom: 30px;
+}
+
+.main-article p {
+	font-size: 1.3em;
+	line-height: 32px;
+}
